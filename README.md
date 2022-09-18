@@ -1,9 +1,16 @@
-Hello World!! It is Coder_S225402 here.
+Snake Game
 
-This snake game is made my myself, a pretty easy game.
+An old popular snake game that used to be hit on old nokia 3310 devices, now with powerups!
 
-Here is a challenge for you:
+How to play
+Control your snake using movement keys in order to consume the animals that randomly spawn on the ground. Consuming 💊 turns your snake invincible, meaning you can consume any object on the ground, and pass through yourself. Consuming 💥, if not invincible, will damage your snake and remove one size from it.
 
-Add a restart button to the game, if you press the restart button, the game restarts.
+Game Controls
+Action	Keys
+Movement	W A S D
+Toggle music	M
+Pause / resume	P
 
-A simple challenge, hope you can finish it in 15 minutes!
+Have fun!
+
+Coder S225402
